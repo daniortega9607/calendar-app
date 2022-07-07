@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "verte": "0.0.12",
     "vue": "^2.6.11",
     "vuex": "^3.1.2"
